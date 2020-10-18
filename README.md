@@ -1,3 +1,3 @@
 # unseriousgame 
 
-http://sparts301.github/unseriousgame 
+http://sparts301.github.io/unseriousgame 
